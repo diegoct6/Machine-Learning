@@ -27,3 +27,5 @@ This project is based on a Kaggle Competition: https://www.kaggle.com/c/ams-2014
 We were given pre-processed data with PCA that we had to model. We tried various approaches before and the last model chosen is a SVM on the clustered stations' data with hyperparameter tunning. 
 
 Our model's score would be ranked in the top 20% of the competition and achieved the 3rd highest score in class. This work was done with the help of my colleagues Nalisha Men and Paula San Roman. It can be found in the file *3_Predicting_solar_energy_production*.
+
+![EDA Solar Energy Production](/3_Predicting_solar_energy_production/Solar.jpg)
