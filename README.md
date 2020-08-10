@@ -31,6 +31,6 @@ Our model's score would be ranked in the top 20% of the competition. This work w
 Additionally, we included a detailed Exploratory Data Analysis interactive mapping of all the stations. This is used in another model as a spatial clustering
 criterion (Here you can access our interactive map: http://rpubs.com/n_men/map).
 
-![EDA Solar Energy Production](/3_Predicting_solar_energy_production/Solar1.jpeg) ![EDA Solar Energy Production](/3_Predicting_solar_energy_production/Solar2.jpeg)
+![EDA Solar Energy Production](/3_Predicting_solar_energy_production/Solar1.png) ![EDA Solar Energy Production](/3_Predicting_solar_energy_production/Solar2.png)
 
 
